@@ -1,0 +1,3 @@
+
+    Question: <p>Parmi les ensembles suivants, dire lesquels sont dénombrables : $\mathbf{N}, \mathbf{Z}, \mathbf{Q}, \mathbf{R}, \mathbf{Q} \times \mathbf{R}$, l'ensemble $\left{n^{2}, n \in \mathbf{N}\right}$, l'ensemble des suites finies de longueur quelconque de ________ et ________, l'ensemble des suites infinies de ________ et de ________, l'ensemble des suites finies de ________, l'ensemble des polynômes à une indéterminée à ________.</p>
+    Solution: <p>$\mathbf{N}, \mathbf{Z}$ et $\mathbf{Q}$ sont dénombrables. $\mathbf{R}$ n'est pas dénombrable (voir poly du cours), et s'injecte (via $x \mapsto(0, x))$ dans $\mathbf{Q} \times \mathbf{R}$, qui lui non plus n'est pas dénom

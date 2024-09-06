@@ -1,0 +1,3 @@
+
+    Question: <p>L'ensemble des réels strictement entre ________ et ________ (autrement dit, l'intervalle ouvert $] 0,1[$) est-il dénombrable? L'ensemble des réels entre ________ et ________ est-il dénombrable?</p>
+    Solution: <p>La fonction $f:________\rightarrow \mathbf{R}\right.$ définie par $f(x):=\tan \left(\frac{\pi x}{2}\right)$ (pour $\left.x \in\right]__________[$ est une bijection. Comme $\mathbf{R}$ n'est pas dénombrable, il en est de même pour ]__________,__________. D'après l'exercice précédent, $[__________,__________]$ n'est pas dénombrable non plus.</p>

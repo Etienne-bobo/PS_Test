@@ -1,0 +1,3 @@
+
+    Question: We pick up, simultaneously, 5 cards from a 52 cards game. How many different drawings can one get containing at most one king?
+    Solution: On a déjà compté les tirages sans roi. Pour les tirages comprenant exactement un roi, il y a 4 façons de choisir le roi, puis, pour chacune de ces façons, $______$ façons de choisir les autres cartes. On en déduit qu'il y a $______$ tels tirages.
